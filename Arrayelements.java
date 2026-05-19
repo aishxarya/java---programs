@@ -14,4 +14,4 @@ public class Arrayelements{
             System.out.print(arr[i]+ " ");
         }
     }
-}
+} 

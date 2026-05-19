@@ -5,7 +5,5 @@ final class Students {
 }
 public class Departmentece {
     public static void main (String[] args){
-        Students ob=new Students();
-        ob.add(7,8);
-    }
-}
+        Students ob=new Students()
+        
