@@ -7,4 +7,4 @@ public class Add {
         int c = 20;
         System.out.println(a + b + c);
     }
-}   
+}    
