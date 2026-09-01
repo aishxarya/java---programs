@@ -10,4 +10,3 @@ class Name {
         System.out.println("Name: " + name + ", Age: " + age);
     }
 }
-                
