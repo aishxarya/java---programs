@@ -29,4 +29,3 @@ public class PalindromeCheck {
         sc.close();
     }
 }
-11111111111111111111111111111111111111111
